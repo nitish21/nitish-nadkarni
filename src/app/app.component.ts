@@ -45,6 +45,6 @@ export class AppComponent implements OnInit {
   ngOnInit() {}
 
   ngAfterViewInit(){
-    $.getScript('../assets/js/resume.js');
+    $.getScript('assets/js/resume.js');
   }
 }
