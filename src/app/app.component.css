@@ -1,2 +1,9 @@
 @import "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700";
 @import "https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i";
+
+.list-padding {
+    padding-inline-start: 20px;
+}
+li {
+    font-size: 0.9rem;
+}
