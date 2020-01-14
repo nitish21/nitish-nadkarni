@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LeftNavbarComponent } from './Components/left-navbar/left-navbar.component';
+import { ExperienceComponent } from './Components/experience/experience.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    LeftNavbarComponent
+    LeftNavbarComponent,
+    ExperienceComponent
   ],
   imports: [
     BrowserModule,
