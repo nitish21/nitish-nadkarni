@@ -18,5 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Deploying to remote branch and hosting on github
 
 git push -u origin master
+
 ng build --prod --base-href "https://nitish21.github.io/nitish-nadkarni/"
+
 ngh --dir dist/resume-nitish
